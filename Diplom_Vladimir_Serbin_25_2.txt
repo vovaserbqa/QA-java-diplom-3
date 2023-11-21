@@ -1,0 +1,11 @@
+Задание 1: юнит-тесты
+https://github.com/vovaserbqa/QA-java-diplom-1/pull/1
+
+Задание 2: API
+https://github.com/vovaserbqa/QA-java-diplom-2/pull/1
+
+Задание 3: веб-приложение
+https://github.com/vovaserbqa/QA-java-diplom-3/pull/1
+
+
+
